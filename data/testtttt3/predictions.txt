@@ -1,0 +1,145 @@
+Individual Crop Predictions:
+The crop image testtttt_processed123 is predicted as cocacola can with 100% probability
+The crop image testtttt_processed93 is predicted as cocacola can with 56% probability
+The crop image testtttt_processed87 is predicted as sprite pet with 60% probability
+The crop image testtttt_processed78 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed50 is predicted as cocacola can with 69% probability
+The crop image testtttt_processed44 is predicted as polaris with 100% probability
+The crop image testtttt_processed45 is predicted as cocacola can with 74% probability
+The crop image testtttt_processed51 is predicted as sprite pet with 59% probability
+The crop image testtttt_processed79 is predicted as cocacola can with 50% probability
+The crop image testtttt_processed86 is predicted as cocacola can with 54% probability
+The crop image testtttt_processed92 is predicted as cocacola can with 100% probability
+The crop image testtttt_processed122 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed120 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed108 is predicted as cocacola can with 57% probability
+The crop image testtttt_processed84 is predicted as cream soda pet with 81% probability
+The crop image testtttt_processed90 is predicted as cream soda pet with 80% probability
+The crop image testtttt_processed47 is predicted as cocacola pet with 61% probability
+The crop image testtttt_processed53 is predicted as cocacola can with 37% probability
+The crop image testtttt_processed52 is predicted as fanta pet with 79% probability
+The crop image testtttt_processed46 is predicted as multibrand with 39% probability
+The crop image testtttt_processed91 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed85 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed109 is predicted as cream soda pet with 100% probability
+The crop image testtttt_processed121 is predicted as cocacola can with 59% probability
+The crop image testtttt_processed119 is predicted as cream soda pet with 81% probability
+The crop image testtttt_processed125 is predicted as cocacola can with 47% probability
+The crop image testtttt_processed81 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed95 is predicted as multibrand with 87% probability
+The crop image testtttt_processed42 is predicted as sprite pet with 80% probability
+The crop image testtttt_processed56 is predicted as sprite pet with 39% probability
+The crop image testtttt_processed9 is predicted as multibrand with 41% probability
+The crop image testtttt_processed8 is predicted as cocacola can with 46% probability
+The crop image testtttt_processed57 is predicted as cocacola can with 67% probability
+The crop image testtttt_processed43 is predicted as fanta pet with 100% probability
+The crop image testtttt_processed94 is predicted as fanta pet with 60% probability
+The crop image testtttt_processed80 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed124 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed130 is predicted as cocacola pet with 80% probability
+The crop image testtttt_processed118 is predicted as cream soda pet with 78% probability
+The crop image testtttt_processed126 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed96 is predicted as cocacola can with 65% probability
+The crop image testtttt_processed82 is predicted as cream soda pet with 59% probability
+The crop image testtttt_processed55 is predicted as cream soda pet with 61% probability
+The crop image testtttt_processed41 is predicted as cream soda pet with 100% probability
+The crop image testtttt_processed69 is predicted as cocacola can with 41% probability
+The crop image testtttt_processed68 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed40 is predicted as cocacola can with 38% probability
+The crop image testtttt_processed54 is predicted as cocacola can with 65% probability
+The crop image testtttt_processed83 is predicted as sprite pet with 39% probability
+The crop image testtttt_processed97 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed127 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed33 is predicted as cocacola can with 75% probability
+The crop image testtttt_processed27 is predicted as sprite pet with 59% probability
+The crop image testtttt_processed26 is predicted as multibrand with 41% probability
+The crop image testtttt_processed32 is predicted as cocacola can with 42% probability
+The crop image testtttt_processed18 is predicted as cocacola can with 41% probability
+The crop image testtttt_processed24 is predicted as cocacola can with 40% probability
+The crop image testtttt_processed30 is predicted as fanta pet with 100% probability
+The crop image testtttt_processed31 is predicted as cocacola can with 54% probability
+The crop image testtttt_processed25 is predicted as cream soda pet with 100% probability
+The crop image testtttt_processed19 is predicted as cocacola can with 73% probability
+The crop image testtttt_processed21 is predicted as sprite pet with 57% probability
+The crop image testtttt_processed35 is predicted as fanta pet with 80% probability
+The crop image testtttt_processed34 is predicted as sprite pet with 57% probability
+The crop image testtttt_processed20 is predicted as cocacola can with 43% probability
+The crop image testtttt_processed is predicted as cocacola zero can with 40% probability
+The crop image testtttt_processed36 is predicted as fanta pet with 100% probability
+The crop image testtttt_processed22 is predicted as cocacola can with 61% probability
+The crop image testtttt_processed23 is predicted as cocacola can with 39% probability
+The crop image testtttt_processed37 is predicted as cocacola pet with 81% probability
+The crop image testtttt_processed12 is predicted as cocacola can with 68% probability
+The crop image testtttt_processed13 is predicted as sprite pet with 55% probability
+The crop image testtttt_processed39 is predicted as cream soda pet with 100% probability
+The crop image testtttt_processed11 is predicted as cocacola can with 33% probability
+The crop image testtttt_processed10 is predicted as cocacola can with 64% probability
+The crop image testtttt_processed38 is predicted as cocacola can with 63% probability
+The crop image testtttt_processed14 is predicted as cocacola can with 39% probability
+The crop image testtttt_processed28 is predicted as cocacola can with 36% probability
+The crop image testtttt_processed29 is predicted as multibrand with 42% probability
+The crop image testtttt_processed15 is predicted as cocacola can with 71% probability
+The crop image testtttt_processed17 is predicted as sprite pet with 75% probability
+The crop image testtttt_processed16 is predicted as cocacola can with 53% probability
+The crop image testtttt_processed102 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed116 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed59 is predicted as sprite pet with 77% probability
+The crop image testtttt_processed71 is predicted as cocacola can with 54% probability
+The crop image testtttt_processed65 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed6 is predicted as sprite pet with 43% probability
+The crop image testtttt_processed7 is predicted as sprite pet with 57% probability
+The crop image testtttt_processed64 is predicted as fanta pet with 100% probability
+The crop image testtttt_processed70 is predicted as cream soda pet with 100% probability
+The crop image testtttt_processed58 is predicted as cocacola pet with 80% probability
+The crop image testtttt_processed117 is predicted as cocacola pet with 80% probability
+The crop image testtttt_processed103 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed115 is predicted as sprite pet with 80% probability
+The crop image testtttt_processed101 is predicted as polaris with 40% probability
+The crop image testtttt_processed129 is predicted as cream soda pet with 81% probability
+The crop image testtttt_processed99 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed66 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed5 is predicted as sprite can with 100% probability
+The crop image testtttt_processed72 is predicted as cocacola can with 38% probability
+The crop image testtttt_processed73 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed4 is predicted as sprite pet with 79% probability
+The crop image testtttt_processed67 is predicted as cream soda pet with 100% probability
+The crop image testtttt_processed98 is predicted as cream soda pet with 59% probability
+The crop image testtttt_processed128 is predicted as sprite pet with 58% probability
+The crop image testtttt_processed100 is predicted as multibrand with 38% probability
+The crop image testtttt_processed114 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed110 is predicted as multibrand with 43% probability
+The crop image testtttt_processed104 is predicted as cream soda pet with 100% probability
+The crop image testtttt_processed88 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed63 is predicted as cream soda pet with 21% probability
+The crop image testtttt_processed77 is predicted as fanta pet with 80% probability
+The crop image testtttt_processed76 is predicted as cocacola pet with 80% probability
+The crop image testtttt_processed62 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed89 is predicted as sprite pet with 39% probability
+The crop image testtttt_processed105 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed111 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed107 is predicted as cocacola can with 42% probability
+The crop image testtttt_processed113 is predicted as sprite pet with 60% probability
+The crop image testtttt_processed74 is predicted as cream soda pet with 100% probability
+The crop image testtttt_processed60 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed3 is predicted as cocacola can with 41% probability
+The crop image testtttt_processed48 is predicted as fanta pet with 60% probability
+The crop image testtttt_processed49 is predicted as sprite pet with 58% probability
+The crop image testtttt_processed2 is predicted as sprite pet with 76% probability
+The crop image testtttt_processed61 is predicted as cocacola can with 70% probability
+The crop image testtttt_processed75 is predicted as cream soda pet with 100% probability
+The crop image testtttt_processed112 is predicted as cocacola pet with 100% probability
+The crop image testtttt_processed106 is predicted as cocacola pet with 100% probability
+
+Summary of Product Counts:
+Found 11 cocacola can(s)
+Found 32 cocacola pet(s)
+Found 14 cream soda pet(s)
+Found 7 fanta pet(s)
+Found 1 multibrand(s)
+Found 1 polaris(s)
+Found 1 sprite can(s)
+Found 6 sprite pet(s)
+
+Total object detections: 130
+Objects with identified products: 73
+Objects with uncertain classification: 57

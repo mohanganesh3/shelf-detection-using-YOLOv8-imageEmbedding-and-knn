@@ -1,0 +1,56 @@
+Individual Crop Predictions:
+The crop image testing_processed8 is predicted as cocacola can with 100% probability
+The crop image testing_processed12 is predicted as sprite pet with 100% probability
+The crop image testing_processed13 is predicted as cocacola can with 66% probability
+The crop image testing_processed9 is predicted as cocacola can with 100% probability
+The crop image testing_processed11 is predicted as cocacola zero can with 65% probability
+The crop image testing_processed39 is predicted as cocacola pet with 100% probability
+The crop image testing_processed38 is predicted as cocacola pet with 100% probability
+The crop image testing_processed10 is predicted as cocacola can with 100% probability
+The crop image testing_processed28 is predicted as cocacola pet with 100% probability
+The crop image testing_processed14 is predicted as cocacola can with 100% probability
+The crop image testing_processed15 is predicted as multibrand with 35% probability
+The crop image testing_processed29 is predicted as cocacola pet with 100% probability
+The crop image testing_processed17 is predicted as cocacola pet with 100% probability
+The crop image testing_processed16 is predicted as sprite pet with 100% probability
+The crop image testing_processed27 is predicted as polaris with 37% probability
+The crop image testing_processed33 is predicted as polaris with 35% probability
+The crop image testing_processed32 is predicted as cocacola pet with 100% probability
+The crop image testing_processed26 is predicted as cocacola can with 100% probability
+The crop image testing_processed2 is predicted as cocacola zero can with 100% probability
+The crop image testing_processed30 is predicted as cocacola pet with 100% probability
+The crop image testing_processed24 is predicted as sprite pet with 100% probability
+The crop image testing_processed18 is predicted as cocacola pet with 67% probability
+The crop image testing_processed19 is predicted as fanta pet with 100% probability
+The crop image testing_processed25 is predicted as cocacola pet with 67% probability
+The crop image testing_processed31 is predicted as cocacola zero can with 100% probability
+The crop image testing_processed3 is predicted as cocacola zero can with 69% probability
+The crop image testing_processed is predicted as fanta pet with 100% probability
+The crop image testing_processed7 is predicted as cocacola can with 100% probability
+The crop image testing_processed35 is predicted as cocacola can with 100% probability
+The crop image testing_processed21 is predicted as sprite pet with 100% probability
+The crop image testing_processed20 is predicted as cocacola pet with 100% probability
+The crop image testing_processed34 is predicted as cocacola pet with 67% probability
+The crop image testing_processed6 is predicted as cocacola can with 68% probability
+The crop image testing_processed4 is predicted as cocacola can with 100% probability
+The crop image testing_processed22 is predicted as cocacola can with 67% probability
+The crop image testing_processed36 is predicted as cocacola pet with 100% probability
+The crop image testing_processed37 is predicted as cocacola pet with 66% probability
+The crop image testing_processed23 is predicted as polaris with 38% probability
+The crop image testing_processed5 is predicted as cocacola can with 67% probability
+The crop image testing_processed44 is predicted as cocacola pet with 100% probability
+The crop image testing_processed42 is predicted as cocacola pet with 67% probability
+The crop image testing_processed43 is predicted as cocacola zero can with 100% probability
+The crop image testing_processed41 is predicted as cocacola pet with 67% probability
+The crop image testing_processed40 is predicted as sprite pet with 100% probability
+
+Summary of Product Counts:
+Found 8 cocacola can(s)
+Found 10 cocacola pet(s)
+Found 3 cocacola zero can(s)
+Found 2 fanta pet(s)
+Found 5 sprite pet(s)
+
+Total object detections: 44
+Objects with identified products: 28
+Objects with uncertain classification: 16

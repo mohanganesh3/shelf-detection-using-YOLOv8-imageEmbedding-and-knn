@@ -1,0 +1,22 @@
+# Configuration for Product Identification System
+paths:
+  data: "data"
+  knowledge_base: "data/knowledge_base/crops/object"
+  model: "models/best.pt"
+  temp_image: "data/temp"
+thresholds:
+  yolo_conf: 0.5
+  yolo_iou: 0.4
+  knn_conf: 0.65
+  knn_neighbors: 5
+colors:
+  cocacola_pet: "blue"
+  fanta_pet: "orange"
+  sprite_pet: "green"
+  minute_maid: "purple"
+  cream_soda_pet: "red"
+  cocacola_can: "cyan"
+  cocacola_zero_can: "magenta"
+  multibrand: "yellow"
+  lays_packet: "pink"
+  unknown: "white"
